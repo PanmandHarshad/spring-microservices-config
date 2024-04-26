@@ -1,4 +1,4 @@
-build:
+zbuild:
   version: "1.0"
 
 loans:
